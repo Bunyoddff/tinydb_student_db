@@ -1,0 +1,21 @@
+studentbase={
+
+'user_1':[{
+        'name':'Sayfulloh',
+        'age':19,
+        'surname':'Ergashev',
+        'job':'student'
+}],
+'user_2':[{
+        'name':'Bunyod',
+        'age':24,
+        'surname':'Xusanov',
+        'job':'student'
+}],
+'user_3':[{
+        'name':'Abdumannon',
+        'age':25,
+        'surname':'Halimov',
+        'job':'engineer'
+}]
+}
